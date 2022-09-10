@@ -1,6 +1,3 @@
-// name and explonation and status
-// installation
-// usage
 # 🐚 Minishell
 As beatiful as shell...
 </br>
