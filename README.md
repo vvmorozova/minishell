@@ -10,18 +10,14 @@ The project is about copying some features of bash console, such as echo, pwd, l
 I didn't try to run code on Linux, so instruction only for MacOS:
 </br>
 1. Install brew (to use signals)
-</br>
 2. Clone repo
-</br>
 3. Cd to minishell
-</br>
 4. Run "make"
-</br>
 5. ✨ Profit! ✨
 # Usage
 Run "./minishell" and then you can enter bash comands.
 </br>
-Working demo:
+# Working demo:
 </br>
 <img src="./pics/how_it_works.gif" width="600" alt="demo">
 
