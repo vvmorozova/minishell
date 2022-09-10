@@ -23,7 +23,7 @@ Run "./minishell" and then you can enter bash comands.
 </br>
 Working demo:
 </br>
-![How_it_works](./pics/how_it_works.gif)
+![How_it_works](https://github.com/vvmorozova/minishell/blob/master/pics/how_it_works.gif)
 # Creators
 Me @vvmorozova wrote parser and helped a bit to 
 </br>
