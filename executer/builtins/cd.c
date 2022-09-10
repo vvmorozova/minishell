@@ -37,7 +37,7 @@ int	builtin_cd(void)
 	getcwd(cwd, sizeof(cwd));
 	if (chdir(g_shell.cmd_start->argv[1]) == -1)
 	{
-		if (g_shell.cmd_start->argv[0] == '\0')
+		if (g_shell.cmd_start->argv[0] == (void *)0)
 			return (1);
 		ft_putstr_fd("cd: ", 2);
 		ft_putstr_fd(*g_shell.cmd_start->argv, 2);
